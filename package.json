@@ -1,0 +1,17 @@
+{
+  "name": "jsernite",
+  "version": "1.0.0",
+  "description": "Sernite script runner for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sernite",
+    "Script",
+    "Web",
+    "Multiprocessing"
+  ],
+  "author": "Ahmetcan ÖZCAN <ahmetcanozcan7@gmail.com>",
+  "license": "ISC"
+}
